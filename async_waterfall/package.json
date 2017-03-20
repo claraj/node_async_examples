@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "async-waterfall": "^0.1.5"
+  }
+}
